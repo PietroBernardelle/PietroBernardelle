@@ -3,6 +3,8 @@
 <!--
 **PietroBernardelle/PietroBernardelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
