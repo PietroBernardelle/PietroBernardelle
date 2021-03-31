@@ -9,8 +9,8 @@
 
 ## OS and Tools
 
-[![Linux]()]
-[![IntelIj]]
+<img align="left" src="https://img.shields.io/badge/Linux%20-%2300599C.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
+[![IntelliJ](https://img.shields.io/badge/IntelliJ%20-%2300599C.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)]
 
 ## Learning
