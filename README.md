@@ -1,4 +1,4 @@
-![Header](https://github.com/PietroBernardelle/PietroBernardelle/blob/main/icons/AI-Programming.png "Header")
+![Header](https://github.com/PietroBernardelle/PietroBernardelle/blob/main/icons/Hey-There-Good-Morning.jpg "Header")
 
 ### Hi there 👋
 
