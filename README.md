@@ -1,5 +1,10 @@
 ### Hey there ... Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Hi, I'm Pietro, I'm 22 and I'm an undergrad at Politecnico di Milano. 
+I'm in my third year of studies towards a bachelor's in Engineering of Computing Systems.
+I love footbal, listen to music and travel. 
+I'm interested in AI and Cyber Sec field.
+
 ## Technologies
 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
