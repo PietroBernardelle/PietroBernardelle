@@ -1,3 +1,5 @@
+![Header](https://github.com/PietroBernardelle/PietroBernardelle/blob/main/icons/AI-Programming.png "Header")
+
 ### Hi there 👋
 
 ## Technologies
@@ -20,8 +22,6 @@
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA%20-%2300599C?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=%23F05033)](https://www.jetbrains.com/idea/)
 
 
-
-
 ## Currently learning
 
 [![Java](https://img.shields.io/badge/Java%20-%23F05033?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/it/)
@@ -35,9 +35,5 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&layout=compact" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PietroBernardelle&repo=Final_project_API_2020" />
 </a>
 
