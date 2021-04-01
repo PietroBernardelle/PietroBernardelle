@@ -28,6 +28,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown)
 
 
+## Stats
 
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PietroBernardelle&count_private=true&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
@@ -35,7 +36,4 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
  
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&hide=TeX&layout=compact)
-![stats](https://github-readme-stats.vercel.app/api?username=PietroBernardelle&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
--->
+
