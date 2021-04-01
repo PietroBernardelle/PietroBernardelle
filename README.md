@@ -1,6 +1,3 @@
-![Header](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
-
-
 ### Hi there 👋
 
 ## Technologies
@@ -33,11 +30,14 @@
 
 ## Stats
 
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PietroBernardelle&count_private=true&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <!-- <br> -->
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PietroBernardelle&show_icons=true&include_all_commits=true" alt="Pietro's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&layout=compact" />
+</a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PietroBernardelle&repo=Final_project_API_2020" />
+</a>
 
