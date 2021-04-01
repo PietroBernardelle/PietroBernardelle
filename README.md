@@ -1,9 +1,9 @@
 ### Hey there ... Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p style="font-family: sans-serif, montserrat">
+<font family="Montserrat">
 Hi, I'm Pietro, I'm almost 22 and I'm an undergrad at Politecnico di Milano. I'm in my third year of studies towards a bachelor's in Engineering of Computing Systems. I'm interested in AI and Cyber Security, I hope i will be able to pursuit one of this filds in my future studies.<br>
 I also love footbal, listen to music, reading (expetially physics stuff), going out with my firend and travel. 
-</p>
+</font>
 
 ## Technologies
 
