@@ -8,8 +8,11 @@ I also love footbal, listening to music, reading (especially physics stuff), goi
 ## Technologies
 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-![VHDL](https://img.shields.io/badge/-Vhdl-grey?logo=xilinx&style=for-the-badge&logoColor=red)
+[![Java](https://img.shields.io/badge/Java%20-%23F05033?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/it/)
+![VHDL](https://img.shields.io/badge/-Vhdl-grey?logo=xilinx&style=for-the-badge&logoColor=red) 
+
 [![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-181717?style=for-the-badge&logo=Markdown)](https://en.wikipedia.org/wiki/Markdown)
 [![Git](https://img.shields.io/badge/git-181717.svg?&style=for-the-badge&logo=git&logoColor=%20-%23F05033)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)](https://github.com)
 
@@ -25,10 +28,7 @@ I also love footbal, listening to music, reading (especially physics stuff), goi
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA%20-%2300599C?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=%23F05033)](https://www.jetbrains.com/idea/)
 
 
-## Currently learning
-
-[![Java](https://img.shields.io/badge/Java%20-%23F05033?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/it/)
-[![Markdown](https://img.shields.io/badge/Markdown-181717?style=for-the-badge&logo=Markdown)](https://en.wikipedia.org/wiki/Markdown)
+<!-- ## Currently learning -->
 
 
 ## Stats
