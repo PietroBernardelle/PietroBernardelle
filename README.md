@@ -1,7 +1,7 @@
 ### Hey there ... Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <font family="Montserrat">
-Hi, I'm Pietro, I'm almost 22 and I'm a postgrad at Politecnico di Milano. I'm in my first year of studies towards a MSc in Computer Science and Engineering. I'm interested in AI and Cyber Security.<br>
+Hi, I'm Pietro, I'm almost 22 and I'm a postgrad at Politecnico di Milano. I'm in my first year of studies towards a MSc in Computer Science and Engineering with a main focus on Cyber Security. I'm interested in AI and Cyber Security.<br>
 I also love footbal, listening to music, reading (especially physics stuff), going out with my firend and travel. 
 </font>
 
