@@ -38,9 +38,9 @@ Hi, I'm Pietro, I'm 22 and I'm a postgrad at Politecnico di Milano. I'm in my fi
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PietroBernardelle&show_icons=true&include_all_commits=true" alt="Pietro's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&layout=compact" />
-</a>
+</a> -->
 
 
 ## You can find me here
