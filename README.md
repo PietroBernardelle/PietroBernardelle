@@ -34,13 +34,7 @@ Hi, I'm Pietro, I'm 22 and I'm a postgrad at Politecnico di Milano. I'm in my fi
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PietroBernardelle&show_icons=true&include_all_commits=true" alt="Pietro's github stats" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroBernardelle&layout=compact" />
-</a> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroBernardelle&count_private=true&show_icons=true&theme=transparent)
 
 
 ## You can find me here
